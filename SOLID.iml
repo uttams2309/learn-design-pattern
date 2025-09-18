@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Dependency_Inversion_Principle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Interface_Segregation_Principle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Liskov_Substitution_Principle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Open_Closed_Principle" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
